@@ -5,4 +5,10 @@
     <color name="colorAccent">#FF4081</color>
     <color name="foreground_material_light">#ffffff</color>
     <color name="primary_text_default_material_light">#deffffff</color>
+    <color name="spotify">#00ce6b</color>
+    <color name="scores">#4EAEFA</color>
+    <color name="library">#E55344</color>
+    <color name="bigger">#8e8e93</color>
+    <color name="bacon">#5E0B03</color>
+    <color name="capstone">#5F2C82</color>
 </resources>
