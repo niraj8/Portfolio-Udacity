@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="?attr/actionBarSize"
+    tools:context="com.nirajftw.portfolio.MainActivityFragment"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_app"
+        android:id="@+id/first_button"
+        android:clickable="true"
+        android:background="#00ce6b"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/second_app"
+        android:id="@+id/second_button"
+        android:clickable="true"
+        android:background="#4EAEFA"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/third_app"
+        android:id="@+id/third_button"
+        android:clickable="true"
+        android:background="#E55344"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fourth_app"
+        android:id="@+id/fourth_button"
+        android:clickable="true"
+        android:background="#8e8e93"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fifth_app"
+        android:id="@+id/fifth_button"
+        android:clickable="true"
+        android:background="#5E0B03"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/capstone"
+        android:id="@+id/capstone_button"
+        android:clickable="true"
+        android:background="#5F2C82"
+        android:typeface="sans"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:onClick="popToast" />
+
+</LinearLayout>

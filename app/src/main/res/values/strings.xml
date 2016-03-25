@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="action_licences">Licences</string>
+    <string name="first_app">Spotify Streamer</string>
+    <string name="second_app">Scores App</string>
+    <string name="third_app">Library App</string>
+    <string name="fourth_app">Build it Bigger</string>
+    <string name="fifth_app">The Reader</string>
+    <string name="capstone">Capstone</string>
+    <string name="app_icon_licence">The app icon is a derivative of <a href="https://thenounproject.com/term/portfolio/242915/">"Portfolio" by Aleksandr Novolokov</a>, used under CC BY Niraj P.</string>
+</resources>
